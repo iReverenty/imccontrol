@@ -4,7 +4,7 @@ class TesteSimples{
 
     Atleta atleta = new Atleta();
     atleta.setNome("Rev");
-    atleta.setIdade(25);
+    atleta.setIdade(19);
 
     System.out.println("Nome = "+ atleta.getNome());
     System.out.println("Idade = "+ atleta.getIdade());
